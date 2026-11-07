@@ -7,12 +7,12 @@ desktop.ini
 .vscode/
 .idea/
 
-# Internal docs / raw files (already backed up in your Google Drive)
+# Internal docs / references (not needed on web server)
 *.docx
 Website style screenshot.jpg
-my_works/x train .mp4
-my_works/om full .mp4
-my_works/SaveVid.Net_*.mp4
+
+# Raw screen recording duplicates (already cleanly renamed to reel-1 through reel-5)
+my_works/SaveVid.Net*
 
 # Vercel build output
 .vercel
