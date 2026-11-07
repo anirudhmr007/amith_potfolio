@@ -1,0 +1,18 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Internal docs / raw files (already backed up in your Google Drive)
+*.docx
+Website style screenshot.jpg
+my_works/x train .mp4
+my_works/om full .mp4
+my_works/SaveVid.Net_*.mp4
+
+# Vercel build output
+.vercel
